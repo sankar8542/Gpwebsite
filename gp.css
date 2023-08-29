@@ -1,0 +1,499 @@
+@media screen and (min-width:320px){
+	.navmain a {
+		display:none;
+		
+	}
+	.main{
+		display:flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.navmain {
+		display:flex;
+		gap: 2rem;
+	}
+	.sec h1{
+		text-align:center;
+	}
+	.sec p{
+		text-align:center;
+	}
+	
+	
+.view iconify-icon{
+         justify-content:center;
+}
+		
+	.m1{
+		margin-top:80px;
+	}
+	h1 {
+           font-size: 25px;
+          }
+		  .m1{
+         line-height: 0.6;
+}
+ .compact{
+	  background-image:url("sand.jpg.jpg");
+      height:150vh;
+ }
+   .chain{
+      background-image:url("tall building.jpg");
+  }
+			 
+	 .name img{
+		 width:300px;
+		 height:400px;
+	 }
+	 .name img{
+		 width:100%
+	 }
+	 .memo {
+		 /* display:flex; */
+		 margin-top:100px;
+		 /* gap:7rem; */
+	 }
+	 
+
+.watch P{
+	margin-top:100px;
+	line-height:0.1;
+	font-size:20px;
+}
+ .watch h1{
+	 font-size:40px;
+ }
+ .caps img{
+	 width:100%
+ }
+ .samsang{
+	 display:flex;
+	 gap:1rem;
+	 align-items:center;
+	 line-height:1;
+	 
+ }
+ .saran{
+	 font-size:3rem;
+	 color:orange;
+ }
+ 
+ 
+ .heavy{
+	 display:none;
+ }
+ .acer{
+	 text-align:center;
+	 padding:2rem;
+ }
+ .hello iconify-icon{
+	 font-size:3rem;
+	 width:3rem;
+	 height:3rem;
+	 padding:1rem;
+	 color:black;
+	 background-color:orange;
+ }
+ .karthick iconify-icon{
+		font-size:3rem;
+		color:orange;
+	}
+    
+    .lenovo img{
+		width:100%
+	}
+    .meetCont{
+		display:flex;
+		align-items:center;
+		gap:1rem;
+	}
+	.advertise{
+	   text-align:center;
+ }
+  .advertise img{
+	   width:100px;
+	   height:100px;
+	   border-radius:4rem;
+  }
+.para{
+	text-align:center;
+}
+ .block{
+	 background-image: url("nightview.jpg");
+	 padding:0.5rem;
+ }
+ .advertise h1,h4{
+	 color:white;
+ }
+  .para p{
+	   color:white;
+  }
+  .groupmeet{
+	  border:1px solid black;
+	  width:300px;
+	  height:400px;
+	  line-height:0.5;
+  }
+   .groupmeet img{
+	   width:100%
+   }
+  .leaders{
+	  /* display:flex; */
+	  /* justify-content:space-evenly; */
+	  gap:2rem;;
+  }
+  .lotus{
+	  text-align:center;
+  }
+  .lotus h1{
+	  font-size:2rem;
+	  color:white;
+  }
+   .lotus button{
+	    width:9rem;
+		height:3rem;
+		border-radius:10px;
+		opacity:0.6;
+   }
+    .chain:hover .lotus button{
+		background-color:red;
+		color:white;
+	}
+	.chain{
+		padding:1rem;
+	}
+   .lotus p{
+	   color:white;
+   }
+   .lenovo{
+		margin-top:50px;
+}
+      .intel iconify-icon{
+	   font-size:36px;
+	   color:solid black;
+	   background-color:orange;
+   }
+   .information{
+	   display:flex;
+	   gap:1rem;
+	   align-items:center;
+   }
+   .line{
+	   line-height:0.7;
+   }
+   .form input{
+	   width:94%;
+	   padding:.5rem;
+	   
+   }
+    .lastpage{
+	  /* display:flex; */
+	  gap:6rem;
+	  margin-top:50px;
+  }
+ 
+
+  .information{
+	  /* display:flex; */
+	   align-items:center;
+	   gap:2rem;
+  }
+   .intel iconify-icon{
+	   font-size:36px;
+	   color:solid black;
+	   background-color:orange;
+   }
+	   
+	   
+	   
+   }
+   .core li{
+	   display:block;
+   }
+   .calls{
+		background-color:black;
+	}
+
+   .Memory{
+	   color:white;
+	   display:flex;
+	   gap:5rem;
+	   padding:3rem;
+	   opacity:0.9;
+}
+
+@media screen and (min-width:768px){
+	.navmain a{
+		display:none;
+	}
+	
+	.battery{
+		margin-left:30px;
+	}
+	.acer{
+		display:flex;
+		flex-wrap:wrap;
+	}
+	.hello{
+		width:50%
+	}
+	.sankar{
+		display:flex;
+	}
+	.leaders{
+		display:flex;
+		/* flex-wrap:wrap; */
+		/* width:45% */
+	}
+}
+@media screen and  (min-width:1024px){
+	  .navmain a{
+		  display:block;
+		  text-decoration:none;
+		  display:flex;
+ }
+     .m1{
+		 margin-top:135px;
+	 }
+	  .m1 h1{
+		 font-size:3rem;
+		 line-height:0.6;
+	 }
+	 .main123{
+		 display:flex;
+		 flex-direction:row;
+		 margin:100px;
+		 gap:3rem;
+}
+
+   .connect{
+	   font-size:20px;
+   }
+   .continue li{
+	   line-height:40px;
+}
+   .name img{
+	   width:700px;
+	   height:600px;
+   }
+   .saran{
+	   font-size:3rem;
+	   color:orange;
+   }
+   .samsang{
+	   display:flex;
+	   align-items:center;
+	   gap:1rem;
+   }
+   .comment{
+	display:none;
+}
+
+.hisense{
+	display:none;
+}
+.heavy:hover .comment{
+	 display:block;
+}
+.menu:hover .hisense{
+	display:block;
+}
+
+
+.watch P{
+	margin-top:100px;
+	line-height:0.1;
+	font-size:20px;
+}
+ .watch h1{
+	 font-size:40px;
+ }
+ 
+  .memo {
+		 display:flex;
+		 padding:70px;
+		 gap:3rem;
+  }
+   .chain{
+      background-image:url("tall building.jpg");
+	  background-attachment:fixed;
+	  width:100%
+     padding:4rem;
+	 margin-top:3rem;
+	
+  }
+  .lotus{
+	  text-align:center;
+	  padding:2rem;
+  }
+  .lotus h1{
+	  font-size:2rem;
+	  color:white;
+  }
+   .lotus button{
+	    width:10rem;
+		height:3rem;
+		border-radius:10px;
+		opacity:0.8;
+		
+   }
+    .chain:hover .lotus button{
+		background-color:red;
+		color:white;
+	}
+   .lotus p{
+	   color:white;
+   }
+   .acer{
+		display:flex;
+		flex-wrap:wrap;
+		gap:2rem;
+	}
+	.hello{
+		width:30%
+	}
+    .acer:hover .hello{
+		box-shadow:2px 3px 3px 3px;
+		gap:rem;
+	}
+	.hello iconify-icon{
+		border: 1px white;
+		width:3rem;
+		height:3rem;
+		padding:1rem;
+		background-color:orange;
+		border-radius:1rem;
+        
+	}
+	.contact{
+		  display:flex;
+		  flex-wrap:wrap;
+		  gap:3rem;
+		  margin-top:100px;
+		  justify-content:center;
+	}
+	.view{
+		  text-align:center;
+		  padding:1rem;
+		  border:1px solid white;
+		  width:9rem;
+		  height:9rem;
+		  color:white;
+	    
+	}
+	.view iconify-icon{
+		 font-size:2rem;
+		 color:orange;
+	}
+	
+	.life{
+		display:flex;
+		justify-content: space-evenly;
+	}
+	.lenovo{
+		display:flex;
+		padding:2rem;
+		align-items:center;
+		gap:3rem;
+	}
+	.karthick iconify-icon{
+		font-size:3rem;
+		color:orange;
+	}
+    /* .sankar{ */
+	/* display:flex; */
+
+	/* align-items:center; */
+	
+/* } */
+    .ravi h1{
+	 font-size:2rem;
+	 line-height:0.6;
+ }
+   .optical h1{
+	 font-size:3rem;
+ }
+ .advertise{
+	   text-align:center;
+ }
+  .advertise img{
+	   width:100px;
+	   height:100px;
+	   border-radius:4rem;
+  }
+.para{
+	text-align:center;
+}
+ .block{
+	 background-image: url("nightview.jpg");
+	 padding:3rem;
+	 background-attachment:fixed;
+ }
+ .advertise h1,h4{
+	 color:white;
+ }
+  .para p{
+	   font-size:1rem;
+	   color:white;
+  }
+  .groupmeet img{
+	  width:300px;
+	  height:300px;
+  }
+  .groupmeet{
+	  border:1px solid black;
+	  width:300px;
+	  height:400px;
+	  line-height:0.5;
+  }
+  .leaders{
+	  display:flex;
+	  justify-content:space-evenly;
+	  gap:2rem;;
+  }
+  .lastpage{
+	  display:flex;
+	  gap:6rem;
+	  margin-top:50px;
+  }
+ 
+
+  .information{
+	  display:flex;
+	   align-items:center;
+	   gap:2rem;
+  }
+   .intel iconify-icon{
+	   font-size:36px;
+	   color:solid black;
+	   background-color:orange;
+   }
+    .send button{
+		 color:white;
+		 background-color:red;
+		 padding:2rem;
+	}
+	.calls{
+		background-color:black;
+	}
+
+   .Memory{
+	   color:white;
+	   display:flex;
+	   gap:5rem;
+	   padding:3rem;
+	   opacity:0.9;
+   }
+   .core li{
+	   display:block;
+   }
+   .right{
+	   text-align:center;
+	   background-color:black;
+	   color:white;
+   }
+.tools ul{
+	  align-items:center;
+}
+}
+ 
